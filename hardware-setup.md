@@ -10,6 +10,11 @@ icon: microchip
 1. Plug in your computer to power and connect to the internet using an Ethernet cable or Wi-Fi.
 2. Connect your computer's HDMI port to the venue's A/V system using an HDMI cable.
 3. Connect the capture card to one of your computer's USB 3.0 ports (usually it's a blue-colored USB port with a SS symbol next to it).
+
+| USB 3.0 Cable                        | USB 3.0 Symbol                                                                                              |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| ![](guide/.gitbook/assets/image.png) | <div><figure><img src="guide/.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div> |
+
 4. Connect the Switch dock's HDMI port to the capture card's HDMI **IN** port using an HDMI cable.
 5. Connect the capture card's HDMI **OUT** port to the players' monitor.
 
@@ -19,3 +24,7 @@ If you're doing a multi-monitor setup, connect the monitors to the HDMI splitter
 
 6. Plug in the external speakers to power and connect the 3.5mm audio jack to the headphone jack of the capture card/monitor/computer.
 7. Check that the video output is working correctly by looking at the monitor(s) connected to the HDMI **OUT** port of the capture card. If there's no signal on the screen, check all the HDMI connections, making sure they are all plugged in properly.
+
+At this point, the setup should look like the diagram below.
+
+<figure><img src="guide/.gitbook/assets/setup.png" alt=""><figcaption><p>Single monitor setup</p></figcaption></figure>
